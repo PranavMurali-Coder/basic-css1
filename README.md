@@ -1,2 +1,2 @@
-# Basic-Css
-This is just a basic CSS website which shows spanish colours.
+# Basic CSS 
+This is one my first projects in which I practised ```CSS3```
